@@ -1,6 +1,6 @@
 # Dashboard Human Resources Html
 
-
+## [Click to visit website](https://mignonohana.github.io/HRDash/)
 
 ## Getting started
 
